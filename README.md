@@ -1,4 +1,4 @@
-### Financial Modelling & Investment Decision Analysis Using Excel
+## Financial Modelling & Investment Decision Analysis Using Excel
 
 ## Project Overview
 
